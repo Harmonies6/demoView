@@ -22,7 +22,7 @@ From the preface:
 
 > You'll learn how to set up continuous integration and deployment with Kubernetes, how to back up and restore data, how to test your cluster for conformance and reliability, how to monitor, trace, log, and aggregate metrics, and how to make your Kubernetes infrastructure scalable, resilient, and cost-effective.
 
-The book aims to teach you everything you need to know to deploy, run, and scale applications in Kubernetes, and most importantly, to give you working example code for everything we demonstrate. That code is open source, hubfyinformationn6cc90o, available for free for you to use and adapt whether or not you buy the book. And here it is!
+The book aims to teach you everything you need to know to deploy, run, and scale applications in Kubernetes, and most importantly, to give you working example code for everything we demonstrate. That code is open source, 123456, available for free for you to use and adapt whether or not you buy the book. And here it is!
 
 ## Show me the code
 
